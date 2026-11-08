@@ -110,38 +110,12 @@ AI-ready, bilingual (EN/VN) README and documentation templates.<br>
 <tr>
 <td valign="top">
 
-**[read-out-loud](https://github.com/awun0105/read-out-loud)**<br>
-Offline reader that syncs local AI voices with word-level highlighting.<br>
-`Rust` `Tauri` `TTS`
-
-</td>
-<td valign="top">
-
 **[VIPLYR-video-player](https://github.com/awun0105/VIPLYR-video-player)**<br>
 A simple video player for Linux.<br>
 `C++`
 
 </td>
-</tr>
-</table>
-
-### 📚 Learning
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[perception-engineer](https://github.com/awun0105/perception-engineer)**<br>
-Perception engineer learning hub.
-
-</td>
-<td width="50%" valign="top">
-
-**[TensorTonic-Solutions](https://github.com/awun0105/TensorTonic-Solutions)**<br>
-Solutions to TensorTonic problems.<br>
-`Python`
-
-</td>
+<td></td>
 </tr>
 </table>
 
