@@ -183,26 +183,3 @@ Solutions to TensorTonic problems.<br>
 </tr>
 </table>
 
-<details>
-<summary><b>VinUni AI20K labs</b></summary>
-<br>
-
-| Lab | Topic |
-|---|---|
-| [Day 1](https://github.com/awun0105/K4-L3-Day1-AI-LLM-Foundation) | AI & LLM foundation |
-| [Day 4](https://github.com/awun0105/day04-cohorts34-prompt-engineering-tool-calling) | Prompt engineering & tool calling |
-| [Multi-agent](https://github.com/awun0105/K4-L3B-MultiAgent-MCP-A2A) | Multi-agent, MCP, A2A |
-| [RAG](https://github.com/awun0105/K4-L3B-RAG-Pipeline) | RAG pipeline |
-| [Day 9](https://github.com/awun0105/ai20k-day09-2A202602467) | Data pipeline for self-driving video & telemetry |
-| [Day 10](https://github.com/awun0105/K4-L3B-DAY10-promaxima-DataPipelineDataObservability) | Data pipeline & observability |
-| [Day 10 (Track 4)](https://github.com/awun0105/K4-Track-4-Day10-VisionLanguageModel) | Vision-language models |
-| [Day 11](https://github.com/awun0105/K4-L3-DAY11-LamQuangAnhQuan-2A202602467-Guardrails-HITL-Responsible-AI) | Guardrails, HITL, responsible AI |
-| [Day 12](https://github.com/awun0105/K4-L3B-DAY12-LamQuangAnhQuan-2A202602467-CloudServicesAndDeployment) | Cloud services & deployment |
-| [Day 13](https://github.com/awun0105/K4-L3-DAY13-LamQuangAnhQuan-2A202602467-Monitoring-LLMOps) | Monitoring & LLMOps |
-| [AI Evaluation](https://github.com/awun0105/K4-L3B-LamQuangAnhQuan-2A202602467-AIEvaluation) | AI evaluation |
-| [Day 18](https://github.com/awun0105/Track04-Day18-2D-perception-detection-segmentation-keypoints) | 2D perception: detection, segmentation, keypoints |
-| [Day 22](https://github.com/awun0105/K4-Track4-Day22-Tracking-Student) | Tracking |
-| [Day 23](https://github.com/awun0105/K4-L2L3-DAY23-LamQuangAnhQuan-2A202602467-SensorFusion) | Sensor fusion: LiDAR detection, EKF tracking |
-| [Mini Hackathon](https://github.com/awun0105/K4-3B-E403-promaxima) | AI product: SPEC → prototype → demo |
-
-</details>
