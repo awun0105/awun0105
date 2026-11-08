@@ -33,20 +33,13 @@ Agent-driven search over large multimedia databases (video, audio, images, text)
 </td>
 <td valign="top">
 
-**[Mental-Health-Sovereign-Agentic-AI-Platform](https://github.com/awun0105/Mental-Health-Sovereign-Agentic-AI-Platform)**<br>
-Agentic AI platform for mental-health support.<br>
-`Python` `Agents`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 **[chat-with-llm](https://github.com/awun0105/chat-with-llm)**<br>
 Chat app for LLM APIs: custom system prompts, streaming, history, retries and token cost tracking.<br>
 `JavaScript` `LLM`
 
 </td>
+</tr>
+<tr>
 <td valign="top">
 
 **[AuthKit](https://github.com/awun0105/AuthKit)**<br>
@@ -54,6 +47,7 @@ Reusable authentication and authorization foundation for FastAPI, with optional 
 `Python` `FastAPI` `TypeScript`
 
 </td>
+<td></td>
 </tr>
 </table>
 
@@ -73,38 +67,6 @@ Turns an indoor video into a metric-scale 3D robot test scene, packaged as OpenU
 **[clip-fashion-product-retrieval-engine](https://github.com/awun0105/clip-fashion-product-retrieval-engine)**<br>
 Multimodal fashion product search with fine-tuned CLIP and Qdrant, served by FastAPI and Gradio.<br>
 `PyTorch` `CLIP` `Qdrant`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[stable-diffusion-finetuning-lora](https://github.com/awun0105/stable-diffusion-finetuning-lora)**<br>
-Fine-tuning Stable Diffusion with LoRA on the DreamBooth dataset.<br>
-`PyTorch` `Diffusion` `LoRA`
-
-</td>
-<td valign="top">
-
-**[Yolo-v8-object-detection](https://github.com/awun0105/Yolo-v8-object-detection)**<br>
-YOLOv8 training and evaluation on Pascal VOC 2007.<br>
-`PyTorch` `YOLO`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Detecting COVID-19 from Chest X-Ray](https://github.com/awun0105/Detecting_COVID19_From_Chest_XRay_Images_Using_Pytorch)**<br>
-Classifies chest X-rays into Normal, Viral Pneumonia and COVID-19.<br>
-`PyTorch` `Medical imaging`
-
-</td>
-<td valign="top">
-
-**[cnn-image-classification-pytorch](https://github.com/awun0105/cnn-image-classification-pytorch)**<br>
-LeNet-5 in PyTorch for MNIST and Fashion-MNIST.<br>
-`PyTorch` `CNN`
 
 </td>
 </tr>
